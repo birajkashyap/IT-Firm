@@ -18,7 +18,7 @@ function HeroSection() {
           Transform your digital future with expert consulting, innovative
           strategies, and seamless technology integration.
         </p>
-        <div className="mt-10">
+        <div className="mt-4">
           <Link href={"/courses"}>
             <Button
               borderRadius="1.75rem"
