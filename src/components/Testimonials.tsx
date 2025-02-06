@@ -1,6 +1,4 @@
 "use client";
-
-import React, { useEffect, useState } from "react";
 import { InfiniteMovingCards } from "./ui/infinite-moving-cards";
 import { TextHoverEffect } from "./ui/text-hover-effect";
 export function Testimonials() {

@@ -2,10 +2,9 @@ import HeroSection from "@/components/HeroSection";
 import Services from "@/components/Services";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import { Steps } from "@/components/Steps";
-import Image from "next/image";
+
 import { Testimonials } from "@/components/Testimonials";
 import { Contact } from "@/components/Contact";
-import { ContactDock } from "@/components/ContactDock";
 
 export default function Home() {
   return (
