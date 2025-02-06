@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Custom IT Solutions",
+      "slug": "custom-it-solutions",
+      "description": "Leverage cutting-edge technology tailored to your business needs. Our custom IT solutions help you streamline operations, enhance security, and drive efficiency.",
+      "price": 4999.99,
+      "provider": "Tech Innovators Inc.",
+      "isFeatured": true,
+      "image": "/services/custom-it.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cloud & DevOps Services",
+      "slug": "cloud-devops-services",
+      "description": "Transform your infrastructure with scalable cloud solutions and seamless DevOps integration. Automate deployments, enhance security, and optimize cloud performance.",
+      "price": 5999.99,
+      "provider": "CloudMasters Solutions",
+      "isFeatured": true,
+      "image": "/services/cloud-devops.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cybersecurity & Compliance",
+      "slug": "cybersecurity-compliance",
+      "description": "Protect your business from cyber threats with top-tier security solutions. We offer risk assessments, compliance audits, and real-time monitoring to safeguard your data.",
+      "price": 6999.99,
+      "provider": "SecureShield Technologies",
+      "isFeatured": true,
+      "image": "/services/cybersecurity.jpg"
+    },
+    {
+      "id": 4,
+      "title": "AI & Blockchain Integration",
+      "slug": "ai-blockchain-integration",
+      "description": "Stay ahead with AI-driven automation and blockchain-based security. Implement cutting-edge AI models and decentralized solutions for trust and efficiency.",
+      "price": 7999.99,
+      "provider": "FutureTech Innovations",
+      "isFeatured": true,
+      "image": "/services/ai-blockchain.jpg"
+    },
+    {
+      "id": 5,
+      "title": "IT Consulting & Strategy",
+      "slug": "it-consulting-strategy",
+      "description": "Get expert guidance to navigate digital transformation. Our IT consulting services help businesses optimize operations and implement the right technologies.",
+      "price": 3999.99,
+      "provider": "Strategic IT Experts",
+      "isFeatured": true,
+      "image": "/services/it-consulting.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Software Development",
+      "slug": "software-development",
+      "description": "From web applications to enterprise solutions, our software development services ensure high-quality, scalable, and secure digital products.",
+      "price": 8999.99,
+      "provider": "CodeCrafters Technologies",
+      "isFeatured": true,
+      "image": "/services/software-development.jpg"
+    }
+  ]
+}
