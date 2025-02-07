@@ -5,6 +5,7 @@ import { Steps } from "@/components/Steps";
 
 import { Testimonials } from "@/components/Testimonials";
 import { Contact } from "@/components/Contact";
+import Spreadsheet from "@/components/Spreadsheet";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <Steps />
       <Testimonials />
       <Contact />
+      <Spreadsheet />
     </main>
   );
 }
